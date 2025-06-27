@@ -41,7 +41,7 @@
 
 ## 📚 Education
 
-- 🎓 **B.Sc. Chemistry** – [Your Institute Here]
+- 🎓 **B.Sc. Chemistry** 
 
 ---
 
