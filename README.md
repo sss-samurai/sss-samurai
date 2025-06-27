@@ -5,7 +5,7 @@
   <a href="https://instagram.com/sss_samurai" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@sss__samurai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:sss.samurai.dev@gmail.com">
+  <a href="mailto:sunindrasingh91@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-sss.samurai.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
