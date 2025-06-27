@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm sss-samurai 👋</h1>  
+<h1 align="center">Hi, I'm sss-samurai 👋</h1>
 <h3 align="center">Web & Mobile App Developer | Rust Learner | Code Enthusiast</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Instagram-@sss__samurai-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:sunindrasingh91@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sss.samurai.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-sunindrasingh91@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ⚙️ Core & Learning
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -41,7 +41,7 @@
 
 ## 📚 Education
 
-- 🎓 **B.Sc.Cgemistry – [Your Institute Here] *(Add if you'd like, or remove this section)*
+- 🎓 **B.Sc. Chemistry** – [Your Institute Here]
 
 ---
 
