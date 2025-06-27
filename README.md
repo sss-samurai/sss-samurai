@@ -41,13 +41,13 @@
 
 ## 📚 Education
 
-- 🎓 **B.Sc. (or relevant field)** – [Your Institute Here] *(Add if you'd like, or remove this section)*
+- 🎓 **B.Sc.Cgemistry – [Your Institute Here] *(Add if you'd like, or remove this section)*
 
 ---
 
 ## 💬 Let's Connect
 
 - 📸 Instagram: [@sss_samurai](https://instagram.com/sss_samurai)  
-- 📧 Email: sss.samurai.dev@gmail.com  
+- 📧 Email: sunindrasingh91@gmail.com  
 
 > “Always building. Always learning.” 🚀
