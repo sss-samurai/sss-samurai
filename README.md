@@ -41,13 +41,13 @@
 
 ## 📚 Education
 
-- 🎓 **B.Sc. Chemistry** 
+- 🎓 **B.Sc. Chemistry** – [Your Institute Here]
 
 ---
 
 ## 💬 Let's Connect
 
-- 📸 Instagram: [@sss_samurai](https://instagram.com/sss_samurai)  
+- 📸 Instagram: [@sss_samurai](https://instagram.com/sss_samurai) _(Feel free to DM for dev collabs or chats!)_  
 - 📧 Email: sunindrasingh91@gmail.com  
 
 > “Always building. Always learning.” 🚀
