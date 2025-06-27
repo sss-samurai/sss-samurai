@@ -1,16 +1,15 @@
-## Hi there 👋
+I'm sss-samurai – a passionate developer with 1.5+ years of experience crafting web and mobile apps. I love exploring low-level and core programming languages.
 
+🔭 I’m currently working on full-stack web and mobile projects
 
-**sss-samurai/sss-samurai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Rust 🦀
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on open-source and indie dev projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💬 Ask me about JavaScript, React, or how I broke into Rust
 
+📫 How to reach me:
+📸 @sss_samurai
+📧 sss.samurai.dev@gmail.com
+
+⚡ Fun fact: I enjoy building apps that blend performance with clean UI
